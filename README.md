@@ -1,2 +1,4 @@
-# Vendas_WA
-Prática 1 de git+github no webacademy.
+# hello world
+Hello world git repository for a tutorial.
+
+Built step by step, only for WebAcademy.
